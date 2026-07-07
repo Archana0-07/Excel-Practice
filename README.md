@@ -15,4 +15,13 @@ Functions covered:
 - MID
 - TRANSPOSE
 
-I will continue uploading new Excel practice sheets regularly to improve my Excel skills.
+## Day 02 - Formulas and Functions
+
+Functions covered:
+-  Relative Reference
+-  Absolute Reference
+-  IF condition
+-  IFS condition
+-  Nested IF Condition
+  
+
